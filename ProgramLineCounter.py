@@ -1,9 +1,8 @@
 """
-Name: footballstats.py
-Description: This program stores teams and there winning and losing score
-to which mulitple calculations can be used to give a number of statistics,
-it achives this by optaining user inputted information about the names
-of the teams and the win and lose scores
+Name: ProgramLineCounter.py
+Description: This program gives a total count of all the lines
+in a python file/project (excluding comments) by asking for the
+pathname for a director with a python project/file in it
 Author: Michael Forde
 """
 # this imports glob
